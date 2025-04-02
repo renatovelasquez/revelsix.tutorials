@@ -1,35 +1,35 @@
-## Start with your app using React Native Reusables!
+## Inicia con tu app usando React Native Reusables!
 
-### 1. **Set Up Your Environment**
-First, make sure you have Node.js and npm installed. Then, install the React Native CLI:
+### 1. **Configura tu entorno**
+Primero, asegúrate de tener Node.js y npm instalados. Luego, instala el CLI de React Native:
 ```bash
 npm install -g react-native-cli
 ```
 
-### 2. **Create a New React Native Project**
-Create a new project using the React Native CLI:
+### 2. **Crea un nuevo proyecto de React Native**
+Crea un nuevo proyecto usando el CLI de React Native:
 ```bash
-npx react-native init MyNewApp
-cd MyNewApp
+npx react-native init miNuevaApp
+cd miNuevaApp
 ```
 
-### 3. **Install React Native Reusables**
-Add React Native Reusables to your project:
+### 3. **Instala React Native Reusables**
+Agrega React Native Reusables a tu proyecto:
 ```bash
 npm install @react-native-reusables/core
 ```
 
-### 4. **Use Reusable Components**
-Now, you can start using the reusable components in your app. For example, to use an Alert component:
+### 4. **Usa componentes reutilizables**
+Ahora, puedes comenzar a usar los componentes reutilizables en tu aplicación. Por ejemplo, para usar un componente de alerta:
 ```jsx
 import React from 'react';
 import { View } from 'react-native';
-import { Alert } from '@react-native-reusables/core';
+import { Alert } from '@react-native-reusables/core;
 
 const App = () => {
   return (
     <View>
-      <Alert message="This is an alert!" type="success" />
+      <Alert message="¡Esta es una alerta!" type="success" />
     </View>
   );
 };
@@ -37,15 +37,16 @@ const App = () => {
 export default App;
 ```
 
-### 5. **Customize Components**
-You can customize the components to fit your design needs. Each component comes with various props for customization. Check the documentation for more details on available props and customization options.
+### 5. **Personaliza los componentes**
+Puedes personalizar los componentes para que se ajusten a tus necesidades de diseño. Cada componente viene con varias propiedades para personalización. Consulta la documentación para más detalles sobre las propiedades disponibles y opciones de personalización.
 
-### 6. **Run Your App**
-Finally, run your app to see the components in action:
+### 6. **Ejecuta tu aplicación**
+Finalmente, ejecuta tu aplicación para ver los componentes en acción:
 ```bash
 npx react-native run-android
-# or
+# o
 npx react-native run-ios
 ```
-### Support my work, thanks!
+
+### Apoya mi trabajo, gracias!
 <a href="https://www.buymeacoffee.com/rvelasquez" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
