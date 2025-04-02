@@ -47,5 +47,5 @@ npx react-native run-android
 # or
 npx react-native run-ios
 ```
-
-Feel free to ask if you have any specific questions or need further assistance with any part of the process! What kind of app are you planning to build?
+### Support my work, thanks!
+<a href="https://www.buymeacoffee.com/rvelasquez" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
