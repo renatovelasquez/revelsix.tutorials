@@ -1,4 +1,4 @@
-# Start with your app using React Native Reusables!
+## Start with your app using React Native Reusables!
 
 ### 1. **Set Up Your Environment**
 First, make sure you have Node.js and npm installed. Then, install the React Native CLI:
