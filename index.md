@@ -49,4 +49,4 @@ npx react-native run-ios
 
 ### Apoya mi trabajo, gracias!
 <a href="https://www.buymeacoffee.com/rvelasquez" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-<a href="https://donate.stripe.com/4gM4gzcU02IN4wB2dTdfG00" target="_blank"><img src="https://uploads.donorperfect.com/images/button-31.png" alt="Click to Give" height="41" width="174"></a>
+<a href="https://donate.stripe.com/4gM4gzcU02IN4wB2dTdfG00" target="_blank"><img src="https://uploads.donorperfect.com/images/button-30.png" alt="Click to Give" height="41" width="174"></a>
